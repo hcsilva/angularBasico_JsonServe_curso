@@ -1,19 +1,19 @@
 {
-    "products":[
-        {
-            "id":1,
-            "name": "Caneta BIC Preta",
-            "price": 5.89
-        },
-        {
-            "id":2,
-            "name": "Notebook",
-            "price": 10000.00
-        },
-        {
-            "id":3,
-            "name": "Samsung S20",
-            "price": 5000.85
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": 5000.85
+    }
+  ]
 }
